@@ -15,11 +15,11 @@ uci show passwall
 
 下载脚本
 ```bash
-wegt https://raw.githubusercontent.com/chris-ss/openwrt_auto_cf/main/ssrp.sh
+wget https://raw.githubusercontent.com/chris-ss/openwrt_auto_cf/main/ssrp.sh
 ```
 or
 ```bash
-wegt https://raw.githubusercontent.com/chris-ss/openwrt_auto_cf/main/passwall.sh
+wget https://raw.githubusercontent.com/chris-ss/openwrt_auto_cf/main/passwall.sh
 ```
 
 给脚本权限并执行测速都能正常运行
